@@ -1,3 +1,7 @@
+body {
+  background: url("http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg");
+}
+
 .survey-form {
   width: 97%;
   border: 1px solid #ccc;
@@ -5,4 +9,9 @@
   margin: 0 20px;
   padding: 6px;
   align-self: center;
+  background: white;
+}
+
+#title {
+  color: white;
 }
